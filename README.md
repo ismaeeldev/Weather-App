@@ -1,7 +1,5 @@
 # Weather App using OpenWeather API
 
-![Weather App Live](weather-app-screenshot.png)
-
 This project is a simple weather application built with HTML, CSS, and JavaScript. It fetches current weather data from the OpenWeather API based on user input or geolocation.
 
 ## Features
